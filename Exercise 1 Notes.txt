@@ -1,0 +1,21 @@
+Classes Needed & Variables
+
+Player
+- Location
+- Items in inventory
+
+Locations
+- Description
+- Connected Locations in 8 directions (set different locations to different directions)
+- Items Inside
+- Examine Text (for if in distance)
+
+Items
+- Description
+- Interactions with objects and locations
+- Examine Text
+
+NPCs
+- Description
+- Similar to items
+- Are when talked to, dialogue provides 2 options.
